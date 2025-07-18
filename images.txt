@@ -2,4 +2,5 @@
 #支持指定架构
 --platform=linux/amd64 nvidia/cuda:12.1.0-runtime-ubuntu20.04
 --platform=linux/amd64 nvidia/cuda:12.1.0-runtime-ubi8
+--platform=linux/amd64 nvidia/cuda:11.7.1-runtime-ubuntu20.04
 
