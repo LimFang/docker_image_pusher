@@ -6,3 +6,4 @@
 --platform=linux/amd64 mathworks/matlab:r2023b
 --platform=linux/amd64 mathworks/matlab:R2021b
 --platform=linux/amd64 ubuntu:focal-20250404
+--platform=linux/amd64 dorowu/ubuntu-desktop-lxde-vnc:focal
